@@ -137,7 +137,7 @@
 
   <section id="contacto">
     <h2>📩 Contáctanos</h2>
-    <p>Teléfono: +51 999 999 999</p>
+    <p>Teléfono: +51 952 824 116</p>
     <p>Email: contacto@serigrafiaalfredodiaz.com</p>
     <button onclick="window.location.href='mailto:contacto@serigrafiaalfredodiaz.com'">
       Pedir Cotización
