@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -137,7 +137,7 @@
 
   <section id="contacto">
     <h2>📩 Contáctanos</h2>
-    <p>Teléfono: +51 952 824 116</p>
+    <p>Teléfono: +51 999 999 999</p>
     <p>Email: contacto@serigrafiaalfredodiaz.com</p>
     <button onclick="window.location.href='mailto:contacto@serigrafiaalfredodiaz.com'">
       Pedir Cotización
@@ -148,4 +148,4 @@
     <p>&copy; 2025 Serigrafía Alfredo Diaz S.A.D | Todos los derechos reservados</p>
   </footer>
 </body>
-</html> 
+</html>
