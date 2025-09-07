@@ -108,18 +108,20 @@
     <h2>✅ Nuestros Servicios</h2>
     <div class="servicios">
       <div class="card">
-        <!-- Imagen actualizada de Polos Personalizados -->
+        <!-- Polos Personalizados -->
         <img src="https://www.zalo.pe/wp-content/uploads/2023/05/polos-cumpleanos-lima-peru-estilo-3.jpg" alt="Polos personalizados">
         <h3>Polos Personalizados</h3>
         <p>Diseños únicos para empresas, grupos o eventos.</p>
       </div>
       <div class="card">
-        <img src="https://via.placeholder.com/300x200" alt="Tazas personalizadas">
+        <!-- Tazas Personalizadas -->
+        <img src="https://www.ewr.pe/wp-content/uploads/2017/10/taza-hincha.png" alt="Tazas personalizadas">
         <h3>Tazas Personalizadas</h3>
         <p>Regalos originales para toda ocasión.</p>
       </div>
       <div class="card">
-        <img src="https://via.placeholder.com/300x200" alt="Gorras bordadas">
+        <!-- Gorras y Accesorios -->
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28NQx-WP5aozUzUg2RBm82sj6BgxJMADZrw&s" alt="Gorras personalizadas">
         <h3>Gorras y Accesorios</h3>
         <p>Estilo y calidad en cada detalle.</p>
       </div>
@@ -137,7 +139,7 @@
 
   <section id="contacto">
     <h2>📩 Contáctanos</h2>
-    <p>Teléfono: +51 999 999 999</p>
+    <p>Teléfono: +51 952 824 116</p>
     <p>Email: contacto@serigrafiaalfredodiaz.com</p>
     <button onclick="window.location.href='mailto:contacto@serigrafiaalfredodiaz.com'">
       Pedir Cotización
@@ -149,3 +151,4 @@
   </footer>
 </body>
 </html>
+
